@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "527235040982",
+    "project_id": "shazanamovieapp",
+    "storage_bucket": "shazanamovieapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527235040982:android:2f967b3548b37443006b77",
+        "android_client_info": {
+          "package_name": "com.it2161.mad232057d.shazanamovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527235040982-pnoij4ih6v86bonkjltlf0kubddh6ee1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.it2161.mad232057d.shazanamovieapp",
+            "certificate_hash": "61c5be3daa571cf3f2632cdeb42d5241c3f8aaf5"
+          }
+        },
+        {
+          "client_id": "527235040982-g6v5450s6ilncu1ssei0df0lunfke3eu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCTSNUB5S_I0P0gVPDsBrYgZtJL4x_8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527235040982-g6v5450s6ilncu1ssei0df0lunfke3eu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
